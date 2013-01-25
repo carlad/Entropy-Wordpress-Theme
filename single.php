@@ -5,7 +5,7 @@
 			<div class="thirteen columns offset-by-three">
 				<h2><?php the_title(); ?></h2>
 				<?php the_content(); ?>
-				<time><?php the_time('F jS, Y') ?></time> &middot; Filed:    
+				<time><?php the_time('F jS, Y') ?>  
 			</div>
 		</div>
 	</article>
