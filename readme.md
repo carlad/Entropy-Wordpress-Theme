@@ -16,7 +16,7 @@ I intend on building a search feature, archives page, and support for pages some
 
 ## Licensing
 
-This resource is licensed under a [BY-SA Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/). You have the freedom to copy, adapt, and transmit this resource in any matter you see fit.
+This resource is licensed under a [BY-SA Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/). You have the freedom to copy, adapt, and transmit this resource in any manner you see fit.
 
 ## Author
 
