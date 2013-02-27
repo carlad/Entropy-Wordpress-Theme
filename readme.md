@@ -25,5 +25,4 @@ This resource is licensed under a [BY-SA Creative Commons License](http://creati
 
 ## Contribution
 
-* Header photo by [Anthony Wallace](http://anthonywallace.com)
 * Skeleton grid by [Dave Gamache](http://www.getskeleton.com)
