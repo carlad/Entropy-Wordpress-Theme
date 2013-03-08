@@ -13,7 +13,7 @@
 <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
 <body>
-	<header class="sixteen columns">
+	<header>
 		<div class="header-inner">
 			<div id="photo">
 				<a href="<?php echo get_settings('home'); ?>">&nbsp;</a>
