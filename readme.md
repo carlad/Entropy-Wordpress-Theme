@@ -11,15 +11,13 @@ Entropy is a single-column, content-focused theme for WordPress. It's an ideal s
 
 There are no theme options provided with Entropy and little-to-no documentation/marginalia provided in the theme files. You'll need a basic understanding of HTML/CSS to do the simplest of things to this theme.
 
-<<<<<<< HEAD
 I intend on building a search feature, archives page, and support for pages sometime in the future. Until then, you're on your own!
 
 ## Licensing
 
 This resource is licensed under a [BY-SA Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/). You have the freedom to copy, adapt, and transmit this resource in any manner you see fit.
-=======
+
 I intend on building a search feature, archives page, and support for pages sometime in the near future. Until then, you're on your own!
->>>>>>> Removed Skeleton grid. Simplified framework and presets. Amended readme.
 
 ## Author
 
@@ -28,8 +26,4 @@ I intend on building a search feature, archives page, and support for pages some
 
 ## Licensing
 
-<<<<<<< HEAD
-* Skeleton grid by [Dave Gamache](http://www.getskeleton.com)
-=======
 This resource is licensed under a [BY-SA Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/). You have the freedom to copy, adapt, and transmit this resource in any matter you see fit.
->>>>>>> Removed Skeleton grid. Simplified framework and presets. Amended readme.
