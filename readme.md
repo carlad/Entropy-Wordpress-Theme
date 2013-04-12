@@ -1,3 +1,9 @@
+# Modified [Entropy Wordpress Theme] 
+
+Customised various bits of CSS and added an 'Archive' Template page which displays a grid of thumbnail images for all posts, sorted by most recent.
+
+The 'Auto Post Thumbnail' plug in is required to generate displayable thumbnail images.
+
 # [Entropy Wordpress Theme](http://timothy-long.com/entropy)
 
 Entropy is a single-column, content-focused theme for WordPress. It's an ideal starting point for those looking to simplify their blog design, have less features, and allow readers to focus on their content.
@@ -23,6 +29,11 @@ I intend on building a search feature, archives page, and support for pages some
 
 * [timothy-long.com](http://timothy-long.com)
 * [@timothylong](http://twitter.com/timothylong)
+
+## Modifications by
+
+* [@CarlaD](http://twitter.com/CarlaD)
+
 
 ## Licensing
 

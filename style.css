@@ -167,7 +167,7 @@
 	}
 	.title {
 		width: 500px;
-		margin: 20px auto 0;
+		margin: 0px auto 0;
 	}
 	.title p {
 		line-height: 24px;
@@ -199,6 +199,7 @@
 		width: 100%;
 		height: auto;
 	}
+	
 	article h2 {
 		margin-bottom: 40px;
 		line-height: 60px;
@@ -226,11 +227,19 @@
 	}
 	article ul a {
 		color: #333;
+		font-size: 12px;
 	}
 	article ul a:hover {
 		color: #999;
 		text-decoration: none;
+		font-size: 12px;
 	}
+
+	article ul {
+		height: auto;
+	}
+
+
 	cite, cite a, time, time a {
 		margin-top: 20px;
 		margin-bottom: 0;
@@ -289,4 +298,59 @@
 	Archives
 
 */
+	archive {
+		width: 800px;
+	}
 
+	archivethumb img {
+		height: 175px;
+		width: 175px;
+	}
+	archive h2 {
+		margin-bottom: 40px;
+		line-height: 60px;
+		text-align: left;
+		font-size: 44px;
+	}
+	archive h2 a {
+		color: #333;
+	}
+	archive h2 a:hover {
+		color: #999;
+		text-decoration: none;
+	}
+	archive h3 {
+		margin: 40px 0 40px;
+		font-size: 24px;
+		line-height: 0;
+		color: #999;
+	}
+	archive p {
+		margin-bottom: 20px;
+	}
+	archive p a {
+		color: #999; 
+	}
+	archive ul a {
+		color: #333;
+		font-size: 12px;
+	}
+	archive ul a:hover {
+		color: #999;
+		text-decoration: none;
+		font-size: 12px;
+	}
+
+	archive ul {
+		position: relative;
+		width: 760px;
+		overflow: auto;
+	}
+
+ 	archive li { float: left; 
+ 		width: 190px;  
+ 	}
+
+
+
+	

@@ -12,7 +12,7 @@
 	<article>
 		<div class="container">
 			<h2>No matching results.</h2>
-			<p>You're on the wrong side of town, brother. <a href="<?php echo get_settings('home'); ?>">Return to homepage.</a></p>
+			<p>You're on the wrong side of town, sister. <a href="<?php echo get_settings('home'); ?>">Return to homepage.</a></p>
 		</div>
 	</article>
 	<?php endif; ?>
